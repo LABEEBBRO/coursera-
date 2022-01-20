@@ -1,0 +1,20 @@
+h1 {
+    color:forestgreen;
+    width: 120;
+}
+
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+
+}
+
+img {
+    align-items: center;
+    border-radius: 0rem;
+
+}
+
+li {
+    align-items: center;
+}
