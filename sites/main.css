@@ -1,12 +1,13 @@
 h1 {
     color:forestgreen;
     width: 120;
+    text-align: center;
 }
 
 a {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:black;
-
+    text-align: left;
 }
 
 img {
